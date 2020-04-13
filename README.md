@@ -1,4 +1,4 @@
-# Create an end-to-end Rest API POC using Express, Mongoose, Swagger.
+# Create an end-to-end Rest API POC using Express, Mongoose & Swagger.
 
 ## Features
 
